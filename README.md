@@ -83,3 +83,5 @@ Mailtrap é uma ferramenta (caixa SMTP falsa) para entregar e-mails, assim você
 Jest é um framework de teste em JavaScript.
 
 O SWC (Speedy web compiler) é uma ferramenta de desenvolvimento de compilação e agrupamento. Segundo o site da SWC, ele é 20x mais rápido que o Babel.
+
+A Railway é uma plataforma de infraestrutura na qual você pode provisionar infraestrutura, desenvolver com essa infraestrutura localmente e, em seguida, implantar na nuvem.
